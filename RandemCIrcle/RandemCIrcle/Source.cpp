@@ -57,7 +57,7 @@ int main() {
 	al_destroy_event_queue(event_queue);
 }
 
-void rect() {//definition
+void rect() {//definitionn
 
 	int x = rand() % 900 + 1;
 	int y = rand() % 900 + 1;
